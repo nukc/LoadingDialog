@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@mipmap/ani_loading_01"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/ani_loading_05"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/ani_loading_10"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/ani_loading_15"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/ani_loading_20"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/ani_loading_25"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/ani_loading_30"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/ani_loading_35"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/ani_loading_40"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/ani_loading_45"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/ani_loading_50"
+        android:duration="100" />
+</animation-list>
